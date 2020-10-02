@@ -1,0 +1,6 @@
+C:\Users\ferna\Desktop\Cursos\Alura\C# parte 1 - Primeiros passos\6-AtricuicoesDeVariaveis\6-AtricuicoesDeVariaveis\bin\Debug\6-AtricuicoesDeVariaveis.exe.config
+C:\Users\ferna\Desktop\Cursos\Alura\C# parte 1 - Primeiros passos\6-AtricuicoesDeVariaveis\6-AtricuicoesDeVariaveis\bin\Debug\6-AtricuicoesDeVariaveis.exe
+C:\Users\ferna\Desktop\Cursos\Alura\C# parte 1 - Primeiros passos\6-AtricuicoesDeVariaveis\6-AtricuicoesDeVariaveis\bin\Debug\6-AtricuicoesDeVariaveis.pdb
+C:\Users\ferna\Desktop\Cursos\Alura\C# parte 1 - Primeiros passos\6-AtricuicoesDeVariaveis\6-AtricuicoesDeVariaveis\obj\Debug\6-AtricuicoesDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Desktop\Cursos\Alura\C# parte 1 - Primeiros passos\6-AtricuicoesDeVariaveis\6-AtricuicoesDeVariaveis\obj\Debug\6-AtricuicoesDeVariaveis.exe
+C:\Users\ferna\Desktop\Cursos\Alura\C# parte 1 - Primeiros passos\6-AtricuicoesDeVariaveis\6-AtricuicoesDeVariaveis\obj\Debug\6-AtricuicoesDeVariaveis.pdb
